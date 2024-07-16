@@ -28,11 +28,11 @@ Hey push operation is done
 yes then try to pull
 pull is also done 
 Okay
-New one 
+New one yes 
 push not working 
-java 
-Nikhil 
-shree1
+java in progress 
+Nikhil QA tester
+shree1 QA tester 
 ballabh
 kiradoo 
 erfducxhjnmerdfx
