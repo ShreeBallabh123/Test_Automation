@@ -47,8 +47,8 @@ public class Marksheet {
 
         // Print the marksheet
         System.out.println("\nMarksheet:");
-        System.out.println("Enter the name: " + studentName);
-        System.out.println("Enter the Roll number: " + rollNumber);
+        System.out.println("Shree ballabh kiradoo: " + studentName);
+        System.out.println("22997: " + rollNumber);
         System.out.println("Maths Marks: " + marks1);
         System.out.println("Physics Marks: " + marks2);
         System.out.println("Chemistry Marks: " + marks3);
